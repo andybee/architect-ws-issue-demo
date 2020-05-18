@@ -1,0 +1,15 @@
+{
+  "name": "ws-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "arc sandbox"
+  },
+  "author": "Andy Buckingham <andy@andybee.com>",
+  "private": true,
+  "dependencies": {
+    "@architect/architect": "^6.4.0"
+  }
+}
